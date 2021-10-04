@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-
+"""
+Comentario
+"""
 class Equipo:
 	
     def __init__(self, nombre, entrenador, estadio, puntos):
